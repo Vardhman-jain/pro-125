@@ -1,0 +1,32 @@
+.starter{
+    color: white;
+    margin: 5px;
+    box-shadow: 10px  10px 10px black;
+    border: 0px solid;
+    border-radius: 10px;
+    width: 1500px;
+}
+.note{
+    font-size: large;
+    font-weight: bold;
+}
+.copyright{
+    background-color: grey;
+    position: fixed;
+    bottom: 0px;
+    color: white;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-image: url(download.jpg);
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    padding:10px;
+    margin:1px;
+    background-color: #03ecfc;
+}
